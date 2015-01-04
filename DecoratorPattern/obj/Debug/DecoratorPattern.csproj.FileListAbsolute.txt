@@ -1,0 +1,6 @@
+D:\Development\GitHub\BlogSamples\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
+D:\Development\GitHub\BlogSamples\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+D:\Development\GitHub\BlogSamples\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+D:\Development\GitHub\BlogSamples\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+D:\Development\GitHub\BlogSamples\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+D:\Development\GitHub\BlogSamples\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
