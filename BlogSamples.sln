@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipAndDownload", "ZipAndDow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "DecoratorPattern\DecoratorPattern.csproj", "{C32B529E-D771-4AE2-9C35-966D78820801}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamperProof", "TamperProof\TamperProof.csproj", "{B7762A47-B892-4F25-A336-002C5E2AC8D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C32B529E-D771-4AE2-9C35-966D78820801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C32B529E-D771-4AE2-9C35-966D78820801}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C32B529E-D771-4AE2-9C35-966D78820801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7762A47-B892-4F25-A336-002C5E2AC8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7762A47-B892-4F25-A336-002C5E2AC8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7762A47-B892-4F25-A336-002C5E2AC8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7762A47-B892-4F25-A336-002C5E2AC8D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
