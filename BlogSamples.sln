@@ -9,6 +9,28 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern", "Decorat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamperProof", "TamperProof\TamperProof.csproj", "{B7762A47-B892-4F25-A336-002C5E2AC8D7}"
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "PartnerSite", "http://localhost:50257", "{CEC92395-73B3-485A-942B-BA1268AC1F06}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50257"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Users\ryuj\Documents\Visual Studio 2013\WebSites\PartnerSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50257\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50257"
+		Release.AspNetCompiler.PhysicalPath = "C:\Users\ryuj\Documents\Visual Studio 2013\WebSites\PartnerSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50257\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "C:\Users\ryuj\Documents\Visual Studio 2013\WebSites\PartnerSite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +49,10 @@ Global
 		{B7762A47-B892-4F25-A336-002C5E2AC8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7762A47-B892-4F25-A336-002C5E2AC8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7762A47-B892-4F25-A336-002C5E2AC8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC92395-73B3-485A-942B-BA1268AC1F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC92395-73B3-485A-942B-BA1268AC1F06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC92395-73B3-485A-942B-BA1268AC1F06}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC92395-73B3-485A-942B-BA1268AC1F06}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
